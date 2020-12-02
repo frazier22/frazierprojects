@@ -4,4 +4,4 @@ I am currently in the process of transitioning projects from Perforce to Github.
 Fe∀R VR and Galaxy Room: I am waiting for the re-opening of public libraries to upload these VR experiences. The finished projects are unfortunately contained on a library PC not accessible to students during this pandemic. If you would like, contact me and I can send prototype versions contained on my MacBook.\
 Rat Race: https://drive.google.com/file/d/1LNZPRxQ4hOareWAR_fpdaw_tgSOn7Cwt/view?usp=sharing \
 Fish.e: https://drive.google.com/file/d/13TVzIc58AJOgTYSieAHY5P2D4pneSmHN/view?usp=sharing \
-Mahabharata Chutes and Ladders: Under development, will be uploaded soon. 
+Mahabharata Chutes and Ladders: Under development, will be uploaded on December 4th, 2020.
